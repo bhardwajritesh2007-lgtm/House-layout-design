@@ -3,11 +3,6 @@
 ## 📌 Project Overview
 This project represents a *detailed residential house floor plan* designed using *AutoCAD*.  
 The drawing includes clearly defined rooms, dimensions, circulation areas, and service spaces, following basic residential planning principles.
-
-The plan is suitable for:
-- Academic assignments  
-- Diploma/Degree civil engineering projects  
-- AutoCAD practice and portfolio showcase  
 <img width="1920" height="1080" alt="Screenshot 2026-01-04 225739" src="https://github.com/user-attachments/assets/43bcab0d-bdba-444a-b62f-2af690601879" />
 
 ---
